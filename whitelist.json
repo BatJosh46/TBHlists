@@ -69,5 +69,9 @@
   "Ventraキット" : {
     "Rank" : "HeadSecurity",
     "Privilege" : "Staff"
+  },
+  "psychoticbun" : {
+    "Rank" : "Dancer",
+    "Privilege" : "Staff"
   }
 }

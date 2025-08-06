@@ -49,5 +49,13 @@
   "Rogerhawaii": {
     "Rank" : "Host",
     "Privilege": "Staff"
+  },
+  "K I N G P O M" : {
+    "Rank" : "Dancer",
+    "Privilege" : "Staff"
+  },
+  "KENTΛ" : {
+    "Rank" : "Dancer",
+    "Privilege" : "Staff"
   }
 }

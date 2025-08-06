@@ -73,5 +73,9 @@
   "psychoticbun" : {
     "Rank" : "Dancer",
     "Privilege" : "Staff"
+  },
+  "UnJustJace" : {
+    "Rank" : "DanceCaptain",
+    "Privilege": "Staff"
   }
 }

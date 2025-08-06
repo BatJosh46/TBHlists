@@ -57,5 +57,17 @@
   "KENTΛ" : {
     "Rank" : "Dancer",
     "Privilege" : "Staff"
+  },
+  "Søundwave" : {
+    "Rank" : "Dancer",
+    "Privilege" : "Staff"
+  },
+  "RavenDaKiller" : {
+    "Rank" : "Security",
+    "Privilege" : "Staff"
+  },
+  "Ventraキット" : {
+    "Rank" : "HeadSecurity",
+    "Privilege" : "Staff"
   }
 }

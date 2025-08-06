@@ -18,4 +18,12 @@
     "Rank": "Management",
     "Privilege": "Staff"
   },
+  "~TheGoddess": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
+  },
+  "【SPHINX】": {
+    "Rank": "Host",
+    "Privilege": "Staff"
+  }
 }

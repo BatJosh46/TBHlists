@@ -13,5 +13,9 @@
   "BlindKnight": {
     "Rank": "Host",
     "Privilege": "Security"
-  }
+  },
+  "xoxoKiyachu": {
+    "Rank": "Management",
+    "Privilege": "Staff"
+  },
 }

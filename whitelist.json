@@ -9,5 +9,9 @@
   "LilMissEmo": {
     "Rank": "Ownder",
     "Privilege": "Staff"
+  },
+  "BlindKnight": {
+    "Rank": "Host",
+    "Privilege": "Security"
   }
 }

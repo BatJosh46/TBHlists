@@ -45,5 +45,9 @@
   "~DarkDre04~": {
     "Rank" : "DanceCaptain",
     "Privilege": "Staff"
+  },
+  "Rogerhawaii": {
+    "Rank" : "Host",
+    "Privilege": "Staff"
   }
 }

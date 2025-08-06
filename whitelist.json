@@ -41,5 +41,9 @@
   "~GothMom~": {
     "Rank": "Artist",
     "Privilege": "Staff"
+  },
+  "~DarkDre04~": {
+    "Rank" : "DanceCaptain",
+    "Privilege": "Staff"
   }
 }

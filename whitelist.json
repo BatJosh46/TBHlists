@@ -81,5 +81,9 @@
   "Josket" : {
     "Rank" : "Security",
     "Privilege" : "Staff"
+  },
+  "~Curiosity~" : {
+    "Rank" : "Dancer",
+    "Privilege" : "Staff"
   }
 }

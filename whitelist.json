@@ -6,10 +6,6 @@
     "Rank": "WorldDev",
     "Privilege": "Staff"
   },
-  "TyloToaster": {
-    "Rank": "WorldDev",
-    "Privilege": "Staff"
-  },
   "LilMissEmo": {
     "Rank": "Owner",
     "Privilege": "Staff"
@@ -47,47 +43,47 @@
     "Privilege": "Staff"
   },
   "~DarkDre04~": {
-    "Rank" : "DanceCaptain",
+    "Rank": "DanceCaptain",
     "Privilege": "Staff"
   },
   "Rogerhawaii": {
-    "Rank" : "Host",
+    "Rank": "Host",
     "Privilege": "Staff"
   },
-  "K I N G P O M" : {
-    "Rank" : "Dancer",
-    "Privilege" : "Staff"
-  },
-  "KENTΛ" : {
-    "Rank" : "Dancer",
-    "Privilege" : "Staff"
-  },
-  "Søundwave" : {
-    "Rank" : "Dancer",
-    "Privilege" : "Staff"
-  },
-  "RavenDaKiller" : {
-    "Rank" : "Security",
-    "Privilege" : "Staff"
-  },
-  "Ventraキット" : {
-    "Rank" : "HeadSecurity",
-    "Privilege" : "Staff"
-  },
-  "psychoticbun" : {
-    "Rank" : "Dancer",
-    "Privilege" : "Staff"
-  },
-  "UnJustJace" : {
-    "Rank" : "DanceCaptain",
+  "K I N G P O M": {
+    "Rank": "Dancer",
     "Privilege": "Staff"
   },
-  "Josket" : {
-    "Rank" : "Security",
-    "Privilege" : "Staff"
+  "KENTΛ": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   },
-  "~Curiosity~" : {
-    "Rank" : "Dancer",
-    "Privilege" : "Staff"
+  "Søundwave": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
+  },
+  "RavenDaKiller": {
+    "Rank": "Security",
+    "Privilege": "Staff"
+  },
+  "Ventraキット": {
+    "Rank": "HeadSecurity",
+    "Privilege": "Staff"
+  },
+  "psychoticbun": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
+  },
+  "UnJustJace": {
+    "Rank": "DanceCaptain",
+    "Privilege": "Staff"
+  },
+  "Josket": {
+    "Rank": "Security",
+    "Privilege": "Staff"
+  },
+  "~Curiosity~": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }

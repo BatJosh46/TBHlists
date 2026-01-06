@@ -141,5 +141,9 @@
   "Aureliane": {
     "Rank": "Management",
     "Privilege": "Staff"
+  },
+  "BubblesWubbles": {
+    "Rank": "Host",
+    "Privilege": "Staff"
   }
 }

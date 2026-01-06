@@ -101,5 +101,9 @@
   "CookieReaper": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "_DarkBunnyYuko": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }

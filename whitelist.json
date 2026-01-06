@@ -177,5 +177,9 @@
   "Kap°": {
     "Rank": "Management",
     "Privilege": "Staff"
+  },
+  "Smoke07411": {
+    "Rank": "HeadSecurity",
+    "Privilege": "Staff"
   }
 }

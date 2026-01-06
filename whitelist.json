@@ -129,5 +129,9 @@
   "SYUndead": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "xoxoKiyachu": {
+    "Rank": "Management",
+    "Privilege": "Staff"
   }
 }

@@ -93,5 +93,9 @@
   "SleepySiren": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "-Maple": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }

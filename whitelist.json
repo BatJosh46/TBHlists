@@ -189,5 +189,9 @@
   "ThwDeadTaco175": {
     "Rank": "Photographers",
     "Privilege": "Staff"
+  },
+  "DemonNinetales": {
+    "Rank": "VIPs",
+    "Privilege": "VIP"
   }
 }

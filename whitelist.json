@@ -97,5 +97,9 @@
   "-Maple": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "CookieReaper": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }

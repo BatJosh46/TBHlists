@@ -89,5 +89,9 @@
   "C0UNC1L": {
     "Rank": "DJ",
     "Privilege": "Staff"
+  },
+  "SleepySiren": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }

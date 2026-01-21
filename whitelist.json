@@ -213,5 +213,9 @@
   "『A C E』": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "Celi_Imposter": {
+    "Rank": "Photographers",
+    "Privilege": "Staff"
   }
 }

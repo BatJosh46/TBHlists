@@ -225,5 +225,9 @@
   "νєηυѕ": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "Lotus_NotDancer": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }

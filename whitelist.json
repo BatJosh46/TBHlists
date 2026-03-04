@@ -229,5 +229,9 @@
   "Lotus_NotDancer": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "ღErostheophanyღ": {
+    "Rank": "Host",
+    "Privilege": "Staff"
   }
 }

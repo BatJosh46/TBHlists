@@ -257,5 +257,9 @@
   "blue_leons132": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "Kat System": {
+    "Rank": "Security",
+    "Privilege": "Staff"
   }
 }

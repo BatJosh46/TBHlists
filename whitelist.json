@@ -289,5 +289,9 @@
   "mrghyli": {
     "Rank": "Host",
     "Privilege": "Staff"
+  },
+  "Celvorn": {
+    "Rank": "Host",
+    "Privilege": "Staff"
   }
 }

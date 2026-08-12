@@ -293,5 +293,9 @@
   "Celvorn": {
     "Rank": "Host",
     "Privilege": "Staff"
+  },
+  "IconOT": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }
